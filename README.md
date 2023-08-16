@@ -1,5 +1,5 @@
-# CSOC Week 0
-Repository for Git Exercise where you have to add your github profile link and link to your portfolio website.
+# Scavenger Hunt Task 2
+Repository for Git Exercise where you have to add your github profile link and link to your LinkedIn profile.
 
 And then you can see your card here - [Namecards]()
 
