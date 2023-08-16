@@ -1,7 +1,7 @@
 # Scavenger Hunt Task 2
 Repository for Git Exercise where you have to add your github profile link and link to your LinkedIn profile.
 
-And then you can see your card here - [Namecards]()
+And then you can see your card here - [Namecards](https://awesomefoss.github.io/Scavenger-Hunt-Task-2/)
 
 ## Steps to Contribute
 
